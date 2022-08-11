@@ -1,0 +1,2 @@
+# Dr.Health
+Dr Health is a doctor appointment system which can be used to make the life of the patients easier. The venture contains an administrator and client sides. The administrator side deals with all the administration like dealing with specialists' records, patient records and dealing with the arrangement time, overseeing treatment offices, etc. The administrator has a significant job in the administration of this online medical clinic, the board framework.
